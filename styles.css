@@ -1,0 +1,60 @@
+.main_menu li {
+	list-style: none;
+	display: inline-block;
+	background-color:#E6E6FA;
+	font-size: 25px;
+	color: blue;
+	font-family: Arial;
+	margin-right: 10px;
+	border-style: dotted;
+	border-radius: 70px;
+	padding: 2px 8px;
+}
+.main_menu li:last-child{
+	margin-right: 0;
+}
+.main_menu li:hover{
+	color: black;
+	background-color: white;
+}
+.main_menu {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-image: url(https://kartinkinaden.ru/uploads/posts/2020-07/1593813137_11-p-interesnie-foni-22.jpg);
+	background-size: 100%;
+	background-position: fixed;
+	
+}
+1body {
+	background-color: #C0C0C0;
+}
+#text {
+	font-size: 20px;
+	font-family: Arial;
+	align-content: center;
+	text-shadow: black 2px 2px;
+	color: #F5F5F5;
+}
+
+.main_menu li a{
+	text-decoration: none;
+}
+#end {
+	background-color: black;
+	font-size: 1px;
+}
+#school {
+	background-color:;
+}
+#text_1 {
+	font-size: 23px;
+	font-family: Arial;
+	align-content: center;
+	text-shadow: black 2px 2px;
+	color: #F5F5F5;	
+}
